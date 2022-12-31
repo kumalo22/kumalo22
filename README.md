@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kumalo22/osticket-prereqs)
+
   - [osTicket: Configuration](https://github.com/kumalo22/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kumalo22/ticket-lifecycle)
 - <b>Microsoft Azure</b>
