@@ -2,6 +2,10 @@
 <h1>Hi, I'm Kingsley, an <a href="https://linkedin.com/in/Kingsley Kumalo">IT Professional</a>☺</h1>
 <h2> Information Technology Projects:</h2>
 
+<b>VPN (Setup and Usage)</b>
+
+[VPN: Installation and Usage](https://github.com/kumalo22/install-usage)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Configuration](https://github.com/kumalo22/post-install-config)
