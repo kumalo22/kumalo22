@@ -2,15 +2,15 @@
 <h1>Hi, I'm Kingsley, an <a href="https://linkedin.com/in/Kingsley Kumalo">IT Professional</a>☺</h1>
 <h2> Information Technology Projects:</h2>
 
-<b>VPN (Setup and Usage)</b>
+- <b>VPN</b>
 
-[VPN: Installation and Usage](https://github.com/kumalo22/install-usage)
+  - [VPN: Installation and Usage](https://github.com/kumalo22/install-usage)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Configuration](https://github.com/kumalo22/post-install-config)
  
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/kumalo22/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kumalo22/azure-network-protocols)
 
