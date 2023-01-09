@@ -1,5 +1,5 @@
 ### Hi there my name is Kingsley Kumalo
-<h1>Hi, I'm Kingsley, an <a href="https://linkedin.com/in/Kingsley Kumalo">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kingsley, an <a href="https://linkedin.com/in/Kingsley Kumalo">IT Professional</h1>
 <h2> Information Technology Projects:</h2>
 
 - <b>VPN</b>
